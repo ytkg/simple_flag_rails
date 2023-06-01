@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-RSpec.describe SimpleFlagRails do
+RSpec.describe SimpleFlag do
   it "has a version number" do
-    expect(SimpleFlagRails::VERSION).not_to be nil
+    expect(SimpleFlag::VERSION).not_to be nil
   end
 end

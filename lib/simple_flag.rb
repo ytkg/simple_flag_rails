@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "simple_flag_rails/version"
+require_relative "simple_flag/version"
 
-module SimpleFlagRails
+module SimpleFlag
   class Error < StandardError; end
   # Your code goes here...
 end

@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/simple_flag_rails/version"
+require_relative "lib/simple_flag/version"
 
 Gem::Specification.new do |spec|
   spec.name = "simple_flag_rails"
-  spec.version = SimpleFlagRails::VERSION
+  spec.version = SimpleFlag::VERSION
   spec.authors = ["Yoshiki Takagi"]
   spec.email = ["yoshiki.tkg@gmail.com"]
 
